@@ -1,3 +1,5 @@
+SpeedDigit Update: 1.0.0
+
 # Laravel PDF: mPDF wrapper for Laravel 5
 
 > Easily generate PDF documents from HTML right inside of Laravel using this mPDF wrapper.
