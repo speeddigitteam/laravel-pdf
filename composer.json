@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=8.0.2",
-        "mpdf/mpdf": "@dev"
+        "mpdf/mpdf": "*"
     },
     "autoload": {
         "psr-4": {
