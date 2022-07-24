@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=8.0.2",
-        "mpdf/mpdf": "*"
+        "speeddigitteam/mpdf": "dev-master"
     },
     "autoload": {
         "psr-4": {
